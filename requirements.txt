@@ -1,0 +1,7 @@
+jupyterlab
+rawpy
+tifffile
+pillow
+opencv-contrib-python
+huggingface_hub
+hf_transfer
