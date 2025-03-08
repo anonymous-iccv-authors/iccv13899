@@ -29,22 +29,22 @@ Here we show the LDR preview versions of the negative films:
 Preview:
 ![19960807A-12-new-orleans-siggraph96](./negative-preview-8bit-split/blue-corrupted/19960807A-12-new-orleans-siggraph96.preview.jpg)
 HDR downloads:
-- [19960807A-12-new-orleans-siggraph96.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960807A-12-new-orleans-siggraph96.dng)
-- [19960807A-12-new-orleans-siggraph96.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960807A-12-new-orleans-siggraph96.tif)
+- [19960807A-12-new-orleans-siggraph96.dng](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960807A-12-new-orleans-siggraph96.dng)
+- [19960807A-12-new-orleans-siggraph96.tif](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960807A-12-new-orleans-siggraph96.tif)
 
 Preview: 
 ![19960818H-34-san-francisco](./negative-preview-8bit-split/blue-corrupted/19960818H-34-san-francisco.preview.jpg)
 HDR downloads:
-- [19960818H-34-san-francisco.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960818H-34-san-francisco.dng)
-- [19960818H-34-san-francisco.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960818H-34-san-francisco.tif)
+- [19960818H-34-san-francisco.dng](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960818H-34-san-francisco.dng)
+- [19960818H-34-san-francisco.tif](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960818H-34-san-francisco.tif)
 
 #### blue-intact
 
 Preview: 
 ![19960812D-14-las-vegas](./negative-preview-8bit-split/blue-intact/19960812D-14-las-vegas.preview.jpg)
 HDR downloads:
-- [19960812D-14-las-vegas.dng](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960812D-14-las-vegas.dng)
-- [19960812D-14-las-vegas.tif](https://github.com/cvpr8223/cvpr8223/releases/download/rc0/19960812D-14-las-vegas.tif)
+- [19960812D-14-las-vegas.dng](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960812D-14-las-vegas.dng)
+- [19960812D-14-las-vegas.tif](https://github.com/anonymous-iccv-authors/hdr-samples/releases/download/rc0/19960812D-14-las-vegas.tif)
 
 ## Dataset Description
 
